@@ -5,8 +5,6 @@
 /.pnp
 .pnp.js
 /responsive
-/yarn.lock
-/tsconfig.json
 
 # testing
 /coverage
