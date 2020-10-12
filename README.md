@@ -16,5 +16,7 @@ cd nlw3
 Instale as dependências e inicíe-o:
 
 #npm install && npm start
+
 OU
+
 #yarn add && yarn start
